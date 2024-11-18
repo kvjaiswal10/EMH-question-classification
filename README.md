@@ -11,5 +11,5 @@ And the target variable Difficulty with values Easy/Medium/Hard based on how eas
 Paragraphs from textbooks such as for DBMS or DSA were chosen to form questions and respective answers and label them as E/M/H.
 
 <h3>Model</h3>
-1. Semantic similarity
+1. Semantic similarity<br>
 2. Transformer - BERT model
